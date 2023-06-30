@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8046ad6-255a-4959-a4c3-118c8951e4c1" name="Changes" comment="something">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8046ad6-255a-4959-a4c3-118c8951e4c1" name="Changes" comment="PAY DAY FINISHED" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="santos &lt;santoslopez890@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -108,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688134166048</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PAY DAY FINISHED">
+      <created>1688135168647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688135168647</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PAY DAY FINISHED">
+      <created>1688135262897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688135262898</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="something" />
-    <option name="LAST_COMMIT_MESSAGE" value="something" />
+    <MESSAGE value="PAY DAY FINISHED" />
+    <option name="LAST_COMMIT_MESSAGE" value="PAY DAY FINISHED" />
   </component>
 </project>
